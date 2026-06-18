@@ -1,0 +1,6 @@
+{
+  "name": "Store Billing",
+  "description": "An Android application for physical stores to instantly register store details, generate professional bills, and share them directly with customers via WhatsApp in one click.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
